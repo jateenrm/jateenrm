@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jateenrm
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Event Driven Architecture.
-- 💞️ I’m looking to collaborate on Enterprise Solutions.
 - 📫 How to reach me jateenrm@yahoo.com
 
 <!---
